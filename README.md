@@ -39,7 +39,7 @@ This app helps users manage their daily tasks with ease — add, complete, and d
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/adarshteq/ToDo-App.git
+git clone https://github.com/Adarshteq/ToDo-App.git
 cd ToDo-App
 npm install
 ```
