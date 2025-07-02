@@ -6,7 +6,7 @@ This app helps users manage their daily tasks with ease — add, complete, and d
 
 ### 🔗 Live Demo
 
-👉 https://adarshteq.github.io/ToDo-App/
+👉 https://adarshteq.github.io/ToDo-App-React/
 
 ## 🚀 Features
 
